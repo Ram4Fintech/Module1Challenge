@@ -4,10 +4,9 @@
 ## *When was the company incorporated?* **18 April 2018**
 
 ## * Who are the founders of the company?*
-     1) Gregory Moshal – CEO and Co-founder; Linked In profile: [Greg Moshal](https://www.linkedin.com/in/gregory-moshal-5bb99622/)
-    2) Beau Bertoli Co-Founder & Chief Revenue Officer; Linked In Profile: [Beau B](https://www.linkedin.com/in/beaubertoli/)
-    3) [Duck Duck Go](https://duckduckgo.com)
-
+- Gregory Moshal – CEO and Co-founder; Linked In profile: [Greg Moshal](https://www.linkedin.com/in/gregory-moshal-5bb99622/)
+- Beau Bertoli Co-Founder & Chief Revenue Officer; Linked In Profile: [Beau B](https://www.linkedin.com/in/beaubertoli/)
+   
 
     
 
