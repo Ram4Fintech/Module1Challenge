@@ -20,7 +20,7 @@
 5.Long delays and queues in telephone customer service
 6.Branch closures result in more queueing at the operating branches and this causegs more frustration
 7.Clerical errors at different levels – at the level of broker, bank’s application input team, assessment team and settlement team. These often end up in delayed settlement, thereby causing extreme stress and monetary losses for the customers**
-	![alt.txt]("/Image/facepalm.jpg")
+	![alt.txt](/Image/facepalm.jpg)
 >	
 >
 **In order to overcome the above shortfalls in bank dealings, the founders of Prospa Group Limited decided to set up a completely online system of processing business loans for small businesses which would make the applications process very simple, the loan assessment fast and error free and disbursement of funds within a very short period**
