@@ -18,9 +18,9 @@
 3.Dealing with different people in the bank for one purpose
 4. One arm of the bank not knowing what the other arm does and so this results in customers repeating themselves all over again to different bank employees.
 5.Long delays and queues in telephone customer service
-6.Branch closures result in more queueing at the operating branches and this causes more frustration
+6.Branch closures result in more queueing at the operating branches and this causegs more frustration
 7.Clerical errors at different levels – at the level of broker, bank’s application input team, assessment team and settlement team. These often end up in delayed settlement, thereby causing extreme stress and monetary losses for the customers**
-	![alt.txt]( "C:\Users\mayar\OneDrive\Documents\Fintech Bootcamp Syd Uni - March 2023\Homework\facepalm-desperate-frustrated-man-feeling-regret-facepalm-desperate-frustrated-man-covering-his-face-hopeless-situation-regret-121056767.jpg")
+	![alt.txt]("/Image/facepalm.jpg")
 >	
 >
 **In order to overcome the above shortfalls in bank dealings, the founders of Prospa Group Limited decided to set up a completely online system of processing business loans for small businesses which would make the applications process very simple, the loan assessment fast and error free and disbursement of funds within a very short period**
